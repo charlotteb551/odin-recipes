@@ -1,4 +1,4 @@
 # odin-recipes
-This is the first project in The Odin Project.
+This is the first project from The Odin Project.
 
-The aim was to create a Website which displays recipes, using my new HTML skills. CSS will be implemented after going through CSS curriculum. 
+The goal was to build a simple recipe website using the HTML skills I had learned. Styling has intentionally been kept minimal, as CSS will be added after completing the CSS section of the curriculum.
