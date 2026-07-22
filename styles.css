@@ -1,5 +1,9 @@
+body {
+    background-color: #f8f4ec;
+}
+
 .title {
-    color: 	#432818;
+    color: 	#fff8f0;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:50px ;
@@ -7,14 +11,34 @@
     text-align: center;
     margin-bottom: 10px;
     margin-top: 0px;
-    background-color:#bb9457;
+    background-color:#6f4e37;
+    border-radius: 8px;
 }
 
-div {
+.recipe-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.recipes {
     padding:30px;
     text-align: center;
-    margin-bottom: 10px;
-    background-color:#99582a;
-    color:#ffe6a7;
-
+    margin: 10px;
+    background-color:#a2673f;
+    width: 300px;
+    border-radius: 8px;
 }
+
+a {
+    color:#fff8f0;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    color: #ffd166;
+}
+
