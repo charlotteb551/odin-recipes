@@ -1,0 +1,20 @@
+.title {
+    color: 	#432818;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:50px ;
+    padding:20px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    background-color:#bb9457;
+}
+
+div {
+    padding:30px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color:#99582a;
+    color:#ffe6a7;
+
+}
