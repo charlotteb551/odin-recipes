@@ -56,3 +56,11 @@ button {
 button:hover {
     background-color: #a2673f;
 }
+
+
+h2,
+h3,
+p,
+li {
+    color: #6f4e37;
+}
